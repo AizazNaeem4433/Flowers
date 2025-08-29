@@ -585,7 +585,7 @@ body {
   }
 }
 .flower__g-front__leaf-wrapper--5, .flower__g-front__leaf-wrapper--6 {
-  top: 3vmin;
+  top: 2vmin;
 }
 .flower__g-front__leaf-wrapper--7, .flower__g-front__leaf-wrapper--8 {
   top: 6.5vmin;
@@ -594,7 +594,7 @@ body {
   animation-delay: 8.2s !important;
 }
 .flower__g-front__leaf-wrapper--3 {
-  animation-delay: 4.9s !important;
+  animation-delay: 5.9s !important;
 }
 .flower__g-front__leaf-wrapper--5 {
   animation-delay: 4.3s !important;
@@ -606,7 +606,7 @@ body {
   animation-delay: 3.8s !important;
 }
 .flower__g-front__leaf-wrapper--8 {
-  animation-delay: 3.5s !important;
+  animation-delay: 4.5s !important;
 }
 @keyframes flower__g-front__leaf-ans {
   0% {
